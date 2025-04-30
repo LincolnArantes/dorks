@@ -1,0 +1,19 @@
+Para emprego:
+
+
+intext:"analyst" AND intext:"security certification" AND intext:"security network" AND site:linkedin.com
+
+Para procurar pessoas:
+
+intext:"Andreia" AND intext:"Sete Lagoas" AND intext:"Educação Física" AND site:linkedin.com
+
+
+Para procurar relatorios:
+
+intext:"Pentest" AND intext:"DESEC" AND intext:"Download" AND site:linkedin.com
+
+
+intext:"Pentest" AND intext:"Solid" AND intext:"Download"
+
+
+intext: Hackersdobem AND intext: Relatorio AND intext: Estudo de caso
